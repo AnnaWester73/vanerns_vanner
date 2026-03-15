@@ -22,4 +22,4 @@
 ## Installation
 
 * Tester utförs med pytest. Skriv py -m pytest i terminalen
-* 
+
